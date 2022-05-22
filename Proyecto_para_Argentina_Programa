@@ -1,0 +1,7 @@
+echo "# Adrianegro22" >> README.md
+git init
+git add README.md
+git commit -m "Mi Primer proyecto en Github"
+git branch -M main
+git remote add origin https://github.com/Adrianegro22/Adrianegro22.git
+git push -u origin main
